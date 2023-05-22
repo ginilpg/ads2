@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "id": "Form Maker",
+      "isDefault": true
+    },
+    {
+      "id": "Feedback Form",
+      "isDefault": false
+    },
+    {
+      "id": "Success Page",
+      "isDefault": false
+    },
+    {
+      "id": "Responses",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "62750f2f5984be5f5784c4af",
+  "color": "#F1DEFF",
+  "icon": "arrow-up",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "forkingEnabled": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
